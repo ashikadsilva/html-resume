@@ -1,0 +1,15 @@
+/* Existing styles ... */
+
+.linkedin-heading {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.linkedin-link {
+    display: inline-block;
+}
+
+  .profile-image {
+    float: right;
+    /* margin-left: 20px; */
+  }
